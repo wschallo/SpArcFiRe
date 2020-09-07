@@ -10,7 +10,7 @@ This tutorial includes the following sections:
 4. Running SpArcFiRe
 
 ## 1) Installing WSL:
-To install WSL, follow [the instructions here.]([https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+To install WSL, follow [the instructions here.](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 **NOTE: For this tutorial, we will be using Ubuntu. You can use a different flavor of linux, but you may have to recompile the MATLAB scripts.**
 
