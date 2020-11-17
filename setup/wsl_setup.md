@@ -15,7 +15,7 @@ To install WSL, follow [the instructions here.](https://docs.microsoft.com/en-us
 **NOTE: For this tutorial, we will be using Ubuntu. You can use a different flavor of linux, but you may have to recompile the MATLAB scripts.**
 
 ## 2) Cloning the SpArcFiRe Repo:
-Open your terminal, and type the following command: `git clone https://github.com/waynebhayes/SpArcFiRe.git`
+Open your terminal, and type the following command: `git clone https://github.com/wschallo/SpArcFiRe.git`
 
 ## 3) Setting up SpArcFiRe
 Once you have cloned the repo, cd into the SpArcFiRe directory.
